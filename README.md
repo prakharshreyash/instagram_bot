@@ -2,6 +2,9 @@
 
 I have made an Instagram Automation Bot using Python which can do auto follow-unfollow followers, do likes, comments and other operations on Instagram.
 
+# Languages Used:
+- Python
+
 # Softwares Used:
 
 1> Mozilla Firefox Browser
@@ -21,4 +24,4 @@ I have made an Instagram Automation Bot using Python which can do auto follow-un
 3> After saving the source code, write the following command "py <filename.py>" in the Windows PowerShell to execute the source code.
 
 # Output
-The Instagram Bot will automatically open the account of the user with the credentials that is provided and it will do the following operations. For reference, see the sample ouput file in this repository.
+- The Instagram Bot will automatically open the account of the user with the credentials that is provided and it will do the following operations. For reference, see the sample ouput file in this repository.
